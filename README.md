@@ -23,7 +23,10 @@ This is my learning project/personal curriculum for Data Science with Python.
             - coursera: [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
             - coursera: [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
         4. [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
-        5. [fast.ai deep learning]
+        5. fast.ai
+            - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
+            - [Practical Deep Learning for Coders, v3](https://course.fast.ai) - Part 1
+            - [Cutting Edge Deep Learning for Coders, Part 2](http://course18.fast.ai/part2.html) - 2018 edition
 
 
 - Milestones
