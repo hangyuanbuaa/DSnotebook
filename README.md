@@ -44,8 +44,7 @@ This is my learning project/personal curriculum for Data Science with Python.
         - Writing Commond-Line Tool
         - Logging in Python
         - Building Packages in Python
-        - Flask (web)
-        - Reference: https://github.com/robert8138/python-deliberate-practice
+        - Flask (web application)
 
     - Mini-Projects
         - Dataset repositories:
