@@ -13,10 +13,10 @@ This is my learning project/personal curriculum for Data Science with Python.
     - MOOCs:
         1. Nanodegrees/Courses in Data Analysis/Science
             - Data Analyst Nanodegree (Udacity): 08/27/18 - 31/12/18
-            - Introduction to Machine Learning (Udacity): 03/01/19 - 11/03/19
+            - Introduction to Machine Learning (Udacity): 03/01/19 - 11/01/19
             - Data Scientist Nanodegree Term 1 (Udacity): 21/01/19 - 09/03/19
         2. Fundamental concepts of Programming:
-            - Udacity: [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513): 12/03/19 - in progress
+            - Udacity: [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513): 12/03/19 - 20/03/19
             - Udacity: [Design of computer programs](https://classroom.udacity.com/courses/cs212)
         3. Math:
             - coursera: [Data Science Math Skills](http://www.coursera.org/learn/datasciencemathskills)
